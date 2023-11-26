@@ -1,0 +1,36 @@
+.header{
+	background-image: url(https://avatars.mds.yandex.net/i?id=5f74de50500622595e83744984515bb186a6d6fb-10683820-images-thumbs&n=13);
+}
+#my-h1{
+	margin-left: 450px;
+	color: white;
+}
+#my-p{
+	color: white;
+	margin-left: 538px;
+	text-decoration-color: darkgrey;
+	font-size: 17px;
+}
+.a{
+	margin-left: 500px;
+}
+.h1{
+	background-image: url(http://top-fon.com/uploads/posts/2022-09/1663551810_11-top-fon-com-p-temno-serii-fon-s-uzorom-foto-17.jpg);
+	background-size: 350px;
+	color: white;
+}
+.table{
+	border: 1px solid darkgrey;
+	background: lightgrey;
+	margin-left: 500px;
+	width: 400px;
+	text-align: center;
+}
+.tr{
+	border: 1px solid darkgrey;
+}
+.footer{
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2023-01/1674275844_catherineasquithgallery-com-p-serii-fon-krasivii-s-uzorami-foto-13.jpg); 
+	width: 7000px;
+	font-size: 30px;
+}
